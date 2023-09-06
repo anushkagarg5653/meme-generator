@@ -1,13 +1,12 @@
 <h2 align="center">Meme-Generator-app</h2>
 <h4 align="center"> Created a Meme Generator app which generates random meme. The user can customise it by picking the desired meme img and add desired text to it.</h4>
 <p align = "center">
-<img src="https://github.com/anushkagarg5653/stock-market-scans-app-FrontEnd/blob/main/stock-app/src/img.png" /></p>
+<img src="https://github.com/anushkagarg5653/meme-generator/blob/master/src/images/meme-gen.png" /></p>
 
 
 </p>
 
 ## :bulb: Built Using
-<img alt="JavaScript" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 <img alt="ReactJS" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)"/>
 ---
 
